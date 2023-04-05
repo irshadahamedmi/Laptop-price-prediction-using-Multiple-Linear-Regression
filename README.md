@@ -1,0 +1,2 @@
+# Laptop-price-prediction-using-Multiple-Linear-Regression
+As laptops become an essential tool for work, education, and entertainment, it can be challenging for consumers to choose the right laptop for their needs. By sharing model &amp; data , I hope to empower consumers to make more informed purchasing decisions and to provide valuable insights for researchers and analysts interested in the  laptop market.
